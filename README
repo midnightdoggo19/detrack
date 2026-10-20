@@ -1,0 +1,2 @@
+Adds a command, /detrack, to Discord that strips HTTP(S) URLs of the tracking information at the end.
+A file named .env must exist in the root of this project with TOKEN and ID set to your bot's token and id, respectively.
